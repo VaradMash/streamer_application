@@ -1,0 +1,5 @@
+# Ignore configuration
+/config/camera-source-config.json
+
+# Ignore base script
+/base.cpp

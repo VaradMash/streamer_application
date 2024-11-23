@@ -1,0 +1,22 @@
+[
+    {
+        "id": "cam001",
+        "name": "Device camera",
+        "local_camera" : "true",
+        "frame_rate": 15
+    },
+    {
+        "id": "cam002",
+        "name": "RTSP camera 1",
+        "url": "rtsp://IP:PORT/h264_ulaw.sdp",
+        "frame_rate": 15,
+        "local_camera" : "false"
+    },
+    {
+        "id": "cam003",
+        "name": "RTSP camera 2",
+        "url": "rtsp://IP:PORT/h264_pcm.sdp",
+        "frame_rate": 15,
+        "local_camera" : "false"
+    }
+]
