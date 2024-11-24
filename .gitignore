@@ -3,3 +3,6 @@
 
 # Ignore base script
 /base.cpp
+
+# Ignore model
+/model
